@@ -24,9 +24,22 @@ button {
   margin-top: 30px;
   color: black;
   background-color: greenyellow;
-
   border-radius: 20px;
 }
 #button1 {
   text-decoration: none;
+}
+.container-2player {
+  height: 15cm;
+  max-width: 600px;
+  padding: 200px;
+  border-color: brown;
+  background-color: blanchedalmond;
+  display: block;
+  margin: auto;
+  border-radius: 40px;
+  margin-top: 50px;
+}
+.container-2player h1 {
+  margin-top: -200px;
 }

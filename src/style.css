@@ -8,23 +8,13 @@ h3 {
   text-align: center;
 }
 .container {
-  padding: 20px;
-  background-color: aqua;
-  max-width: 250px;
+  background-color: chocolate;
+  max-width: 400px;
   display: block;
   margin: auto;
-  margin-top: 200px;
-  border-radius: 20px;
-}
-
-.overview {
-  text-align: centre;
-  margin: auto;
-  display: block;
-}
-
-.form-check {
-  text-align: center;
+  padding: 10px;
+  border-radius: 40px;
+  margin-top: 100px;
 }
 button {
   border: 400px;
@@ -36,4 +26,7 @@ button {
   background-color: greenyellow;
 
   border-radius: 20px;
+}
+#button1 {
+  text-decoration: none;
 }

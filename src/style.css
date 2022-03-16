@@ -30,7 +30,7 @@ button {
   text-decoration: none;
 }
 .container-2player {
-  height: 18cm;
+  height: 20cm;
   max-width: 600px;
   padding: 200px;
   border-color: brown;
@@ -51,4 +51,5 @@ button {
 .currentscore h2 {
   margin-top: 10px;
 }
-.button1{}
+.button1 {
+}
